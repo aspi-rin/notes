@@ -7,6 +7,10 @@
 
 ![](https://s2.loli.net/2024/02/01/csW2aEglQwdIeF4.jpg)
 
+Docker architecture:
+
+![](https://pic.aspi-rin.top/2024/02/a95ee43a193774d0363e0307bd7c37b4.jpeg)
+
 ## Docker Commands
 
 ```
@@ -23,6 +27,8 @@ docker run -p 9000:80 xxx:1.0.0  # PORT mapping [外部:Docker内]
 docker run –v /opt/datadir:/var/lib/mysql mysql  # Volume mapping
 
 docker run -it nginx:latest /bin/bash  # 交互模式启动，在容器内执行 bash
+
+docker exec -it <Container ID/name> /bin/bash/  # 进入容器的 Shell
 
 docker stop <Container ID/name>  # 输入 id 的前几个字符即可
 docker start <Container ID/name>  # 启动已有的 Container
