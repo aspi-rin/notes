@@ -10,6 +10,24 @@
 
 ## Picgo 上传图片到图床配置
 
+### Cloudflare R2 桶
+
+安装 S3 插件
+
+![](https://pic.aspi-rin.top/2024/02/b1bddaaf690ce7b1671a8ea12b680049.jpeg)
+
+Picgo 配置
+
+ID 和密钥通过创建 R2 API 令牌获取。
+
+文件按年月存，不用改。
+
+自定义节点在「存储桶详细信息 - S3 API」中，由于前面填过桶名，因此要把后面的桶名删掉。
+
+![](https://pic.aspi-rin.top/2024/02/a5ced32d550afb1790717d54bff67b56.jpeg)
+
+### SMMS 图床
+
 ![](https://s2.loli.net/2024/02/07/O4q6TSGAQl12kmW.jpg)
 
 ![](https://s2.loli.net/2024/02/07/RdgGb4BLjs29rqo.jpg)
