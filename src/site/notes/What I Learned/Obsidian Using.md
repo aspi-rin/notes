@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-learned/obsidian-using/"}
+{"dg-publish":true,"permalink":"/What I Learned/Obsidian Using/"}
 ---
+
+## 关于 Digital Garden 插件的使用
 
 ## Advanced Codeblock 显示行号，高亮整行
 
