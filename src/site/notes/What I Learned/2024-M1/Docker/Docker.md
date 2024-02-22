@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-learned/2024-m1/docker/docker/"}
+{"dg-publish":true,"permalink":"/What I Learned/2024-M1/Docker/Docker/"}
 ---
 
 
