@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-i-learned/2024-m2/windows-wsl/"}
+{"dg-publish":true,"permalink":"/What I Learned/2024-M2/Windows WSL 开发环境/"}
 ---
 
 ## 安装
