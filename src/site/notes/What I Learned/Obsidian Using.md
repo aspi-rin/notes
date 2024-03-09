@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/What I Learned/Obsidian Using/"}
 ---
 
+## 第三方插件使用
+
+### Commander
+
+[obsidian-commander: Add Commands to every part of Obsidian](https://github.com/phibr0/obsidian-commander)
+
+目前只做了这一件事
+
+![](https://pic.aspi-rin.top/2024/03/73fbe797ffb1c7ee6c34ce3963bcda43.jpeg)
+
 ## 关于 Digital Garden 插件的使用
 
 ## Advanced Codeblock 显示行号，高亮整行
@@ -27,6 +37,10 @@ ID 和密钥通过创建 R2 API 令牌获取。
 自定义节点在「存储桶详细信息 - S3 API」中，由于前面填过桶名，因此要把后面的桶名删掉。
 
 ![](https://pic.aspi-rin.top/2024/02/a5ced32d550afb1790717d54bff67b56.jpeg)
+
+前面填了带 md5 的文件路径，无需重命名
+
+![](https://pic.aspi-rin.top/2024/02/6558bf023627c04ce796247889c528aa.jpeg)
 
 ### SMMS 图床
 
