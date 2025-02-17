@@ -1,0 +1,9 @@
+site_name: Aspi-Rin's Notes
+site_url:
+repo_name:
+repo_url:
+site_description: Aspi-Rin's Notes
+
+theme:
+  name: material
+  language: zh
